@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"name": "WeatherStation",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"initializer_list": "cpp",
+			"list": "cpp",
+			"vector": "cpp",
+			"xhash": "cpp",
+			"xstring": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp"
+		}
+	}
+}
